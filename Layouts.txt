@@ -10,8 +10,8 @@ Welcome to Layouts.txt - please see docs.txt for more info on how to properly us
 +---------------------------------+
 |                                 |
 |            Window 2             |
-|                                 |
 +---------------------------------+
+|                                 |
 
 
 --           Layout 2            --
